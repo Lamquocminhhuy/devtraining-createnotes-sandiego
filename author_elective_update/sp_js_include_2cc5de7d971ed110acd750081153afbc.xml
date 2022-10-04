@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_js_include">
+    <sp_js_include action="DELETE">
+        <display_name>Test</display_name>
+        <source>local</source>
+        <sys_class_name>sp_js_include</sys_class_name>
+        <sys_created_by>fpt_hla_adm</sys_created_by>
+        <sys_created_on>2022-10-03 09:39:24</sys_created_on>
+        <sys_id>2cc5de7d971ed110acd750081153afbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_ui_script display_value="$google_captcha">00f87741d7100200936043d60e6103ae</sys_ui_script>
+        <sys_update_name>sp_js_include_2cc5de7d971ed110acd750081153afbc</sys_update_name>
+        <sys_updated_by>fpt_hla_adm</sys_updated_by>
+        <sys_updated_on>2022-10-03 09:39:24</sys_updated_on>
+        <url/>
+    </sp_js_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</application>
+        <file_path/>
+        <instance_id>43dcb49cdbb2cc54387021c4059619d7</instance_id>
+        <instance_name>dev98888</instance_name>
+        <name>sp_js_include_2cc5de7d971ed110acd750081153afbc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_js_include"><sp_js_include action="INSERT_OR_UPDATE"><display_name>Test</display_name><source>local</source><sys_class_name>sp_js_include</sys_class_name><sys_created_by>fpt_hla_adm</sys_created_by><sys_created_on>2022-10-03 09:39:24</sys_created_on><sys_id>2cc5de7d971ed110acd750081153afbc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test</sys_name><sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package><sys_policy/><sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope><sys_ui_script display_value="$google_captcha">00f87741d7100200936043d60e6103ae</sys_ui_script><sys_update_name>sp_js_include_2cc5de7d971ed110acd750081153afbc</sys_update_name><sys_updated_by>fpt_hla_adm</sys_updated_by><sys_updated_on>2022-10-03 09:39:24</sys_updated_on><url/></sp_js_include></record_update>]]></payload>
+        <payload_hash>-1136476685</payload_hash>
+        <record_name>Test</record_name>
+        <reverted_from/>
+        <source>e3049af9971ed110acd750081153afb2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>fpt_hla_adm</sys_created_by>
+        <sys_created_on>2022-10-03 09:39:25</sys_created_on>
+        <sys_id>48d5167d971ed110acd750081153af91</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1839d36e8ee0000001</sys_recorded_at>
+        <sys_updated_by>fpt_hla_adm</sys_updated_by>
+        <sys_updated_on>2022-10-03 09:39:25</sys_updated_on>
+        <type>JS Include</type>
+        <update_guid>80d5167d741ed110a050649875c94291</update_guid>
+        <update_guid_history>80d5167d741ed110a050649875c94291:-1136476685</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Test">e5d512bd971ed110acd750081153afec</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>fpt_hla_adm</sys_created_by>
+        <sys_created_on>2022-10-03 09:39:30</sys_created_on>
+        <sys_db_object display_value="" name="sp_js_include">sp_js_include</sys_db_object>
+        <sys_id>058f43ba3e6d44508e6b885834660924</sys_id>
+        <sys_metadata>2cc5de7d971ed110acd750081153afbc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_scope_delete display_value="">64daa03572704d49a928bf08a985d6f9</sys_scope_delete>
+        <sys_update_name>sp_js_include_2cc5de7d971ed110acd750081153afbc</sys_update_name>
+        <sys_update_version display_value="sp_js_include_2cc5de7d971ed110acd750081153afbc">48d5167d971ed110acd750081153af91</sys_update_version>
+        <sys_updated_by>fpt_hla_adm</sys_updated_by>
+        <sys_updated_on>2022-10-03 09:39:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
